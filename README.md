@@ -1,8 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=140&section=header&text=luv&fontSize=55&fontColor=D4AF37&animation=fadeIn" width="100%"/>
-
-</div>
 
 # Hi, im Luv
 
