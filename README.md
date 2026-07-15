@@ -1,7 +1,7 @@
 <div align="center">
 
 
-# Hi, im Luv
+# Hi, im Luv :)
 
 exploring fields as i go — whatever pulls me in next, i follow.
 
