@@ -15,6 +15,5 @@ exploring fields as i go — whatever pulls me in next, i follow.
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Lovelakshya1-0D0D0D?style=flat-square&logo=github&logoColor=D4AF37)](https://github.com/Lovelakshya1)
 
 </div>
