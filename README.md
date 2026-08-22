@@ -17,3 +17,17 @@ exploring fields as i go — whatever pulls me in next, i follow.
 
 
 </div>
+<div align="center">
+
+<h3>Himeno Generator</h3>
+
+<!-- <kbd>
+  <img src="https://still-smoke-3756.alistynyshtyk07.workers.dev" width="500" />
+</kbd> -->
+<kbd>
+  <a href="https://youtu.be/bnxYySBGtwo" target="_blank">
+    <img src="https://himeno.alistynyshtyk07.workers.dev" width="500"/>
+  </a>
+</kbd>
+
+</div>
