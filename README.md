@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<h1>Hi, im Luv :)</h1>h1>
+<h1>Hi, im Luv :)</h1>
 
 exploring fields as i go — whatever pulls me in next, i follow.
 
