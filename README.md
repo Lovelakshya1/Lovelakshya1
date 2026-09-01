@@ -1,7 +1,7 @@
 <div align="center">
 
 
-# Hi, im Luv :)
+<h1>Hi, im Luv :)</h1>h1>
 
 exploring fields as i go — whatever pulls me in next, i follow.
 
@@ -18,7 +18,7 @@ exploring fields as i go — whatever pulls me in next, i follow.
 </div>
 <div align="center">
 
-<h3>Himmyyyyy :)</h3>
+<h1>Himmyyyyy :)</h1>
 
 <!-- <kbd>
   <img src="https://still-smoke-3756.alistynyshtyk07.workers.dev" width="500" />
