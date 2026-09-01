@@ -3,7 +3,7 @@
 
 <h1>Hi, im Luv :)</h1>
 
-exploring fields as i go — whatever pulls me in next, i follow.
+<h3>exploring fields as i go — whatever pulls me in next, i follow.</h3>
 
 <div align="center">
 
